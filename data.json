@@ -1,0 +1,254 @@
+[
+  {
+    "nome": "Ferrari 458 Italia",
+    "ano": 2009,
+    "descricao": "Ela começou a ser produzida nesse mesmo ano como sucessora da Ferrari F430, com motor V8 naturalmente aspirado de 4.5 litros.",
+    "link": "https://www.ferrari.com/en-EN/auto/458-italia",
+    "tags": [
+      "Supercarro - V8-aspirado"
+    ]
+  },
+  {
+    "nome": "Ferrari 296 speciale A",
+    "ano": 2025,
+    "descricao": "É um supercarro híbrido plug-in, com motor V6 de 3,0 litros em ângulo de 120° + motor elétrico.",
+    "link": "https://www.ferrari.com/en-BR/auto/296-speciale-a",
+    "tags": [
+      "Supercarro - V6-híbrido"
+    ]
+  },
+  {
+    "nome": "Ferrari LaFerrari",
+    "ano": 2013,
+    "descricao": "O primeiro híbrido da Ferrari, combinando um motor V12 com um sistema HY-KERS para uma potência total de 963 cv. É um dos carros mais exclusivos da marca.",
+    "link": "https://www.ferrari.com/en-EN/auto/laferrari",
+    "tags": [
+      "Hypercar - V12-híbrido"
+    ]
+  },
+  {
+    "nome": "Ferrari F8 Tributo",
+    "ano": 2019,
+    "descricao": "Sucessora da 488 GTB, a F8 Tributo é equipada com o motor V8 mais potente da história da Ferrari para um carro de produção em série não especial.",
+    "link": "https://www.ferrari.com/en-EN/auto/f8-tributo",
+    "tags": [
+      "Supercarro - V8-turbo"
+    ]
+  },
+  {
+    "nome": "Ferrari SF90 Stradale",
+    "ano": 2019,
+    "descricao": "O primeiro supercarro híbrido plug-in de produção em série da Ferrari, com 1000 cv de potência combinada e tração integral.",
+    "link": "https://www.ferrari.com/en-EN/auto/sf90-stradale",
+    "tags": [
+      "Hypercar - V8-híbrido"
+    ]
+  },
+  {
+    "nome": "Ferrari Roma",
+    "ano": 2020,
+    "descricao": "Um cupê 2+ com motor V8 turbo dianteiro, representando o estilo de vida italiano dos anos 50 e 60 com um design elegante e atemporal.",
+    "link": "https://www.ferrari.com/en-EN/auto/ferrari-roma",
+    "tags": [
+      "Grand Tourer - V8-turbo"
+    ]
+  },
+  {
+    "nome": "Ferrari 812 Superfast",
+    "ano": 2017,
+    "descricao": "Equipada com um motor V12 naturalmente aspirado de 6.5 litros, é uma das berlinettas com motor dianteiro mais potentes e rápidas já construídas pela Ferrari.",
+    "link": "https://www.ferrari.com/en-EN/auto/812-superfast",
+    "tags": [
+      "Grand Tourer - V12-aspirado"
+    ]
+  },
+  {
+    "nome": "Ferrari Portofino M",
+    "ano": 2020,
+    "descricao": "Uma evolução ('M' de Modificata) da Portofino, este conversível GT apresenta melhorias no desempenho, design e tecnologia, incluindo um novo câmbio de 8 marchas.",
+    "link": "https://www.ferrari.com/en-EN/auto/ferrari-portofino-m",
+    "tags": [
+      "Grand Tourer - V8-turbo"
+    ]
+  },
+  {
+    "nome": "Ferrari 488 GTB",
+    "descricao": "O ronco do V8 biturbo de 3.9L é a sinfonia que define o prazer da condução, entregando 670 cv de pura adrenalina e atingindo 330 km/h.",
+    "ano": 2015,
+    "link": "https://www.ferrari.com/en-EN/auto/488-gtb",
+    "tags": [
+      "Supercarro - V8-turbo"
+    ]
+  },
+  {
+    "nome": "Enzo Ferrari",
+    "descricao": "Uma lenda limitada, com um V12 de 6.0L derivado da Fórmula 1, alcançando 660 cv e rompendo a barreira dos 350 km/h. Tecnologia de ponta e emoção pura.",
+    "ano": 2002,
+    "link": "https://www.ferrari.com/en-EN/auto/enzo-ferrari",
+    "tags": [
+      "Hypercar - V12-aspirado"
+    ]
+  },
+  {
+    "nome": "Ferrari F40",
+    "descricao": "O último carro supervisionado pelo Comendador. Pura fibra de carbono e 478 cv de turbo lag agressivo, um ícone indomável que beira os 324 km/h.",
+    "ano": 1987,
+    "link": "https://www.ferrari.com/en-EN/auto/f40",
+    "tags": [
+      "Clássico - V8-biturbo"
+    ]
+  },
+  {
+    "nome": "Ferrari F50",
+    "descricao": "A conexão mais próxima de um carro de Fórmula 1 nas ruas, impulsionado por um V12 aspirado de 4.7L com 520 cv, celebrando os 50 anos da marca.",
+    "ano": 1995,
+    "link": "https://www.ferrari.com/en-EN/auto/f50",
+    "tags": [
+      "Hypercar - V12-aspirado"
+    ]
+  },
+  {
+    "nome": "Ferrari California T",
+    "descricao": "O grand tourer perfeito para o dia a dia. Seu V8 turbo de 3.9L e teto retrátil transformam qualquer viagem em uma jornada inesquecível de 560 cv.",
+    "ano": 2014,
+    "link": "https://www.ferrari.com/en-EN/auto/california-t",
+    "tags": [
+      "Grand Tourer - V8-turbo"
+    ]
+  },
+  {
+    "nome": "Ferrari GTC4Lusso",
+    "descricao": "A combinação suprema de luxo e desempenho. O V12 aspirado de 6.3L e tração integral fazem deste Shooting Brake de quatro lugares um velocista de 690 cv.",
+    "ano": 2016,
+    "link": "https://www.ferrari.com/en-EN/auto/gtc4lusso",
+    "tags": [
+      "Grand Tourer - V12-aspirado"
+    ]
+  },
+  {
+    "nome": "Ferrari Daytona SP3",
+    "descricao": "O mais recente da série Icona. O V12 central-traseiro entrega 840 cv, capturando a essência das corridas de endurance dos anos 60 com performance moderna.",
+    "ano": 2021,
+    "link": "https://www.ferrari.com/en-EN/auto/daytona-sp3",
+    "tags": [
+      "Icona - V12-aspirado"
+    ]
+  },
+  {
+    "nome": "Ferrari Purosangue",
+    "descricao": "Não é um SUV, é um Ferrari de quatro portas. O primeiro FUV com um coração V12 de 6.5L e 725 cv, redefinindo o luxo e a versatilidade esportiva.",
+    "ano": 2022,
+    "link": "https://www.ferrari.com/en-EN/auto/purosangue",
+    "tags": [
+      "FUV - V12-aspirado"
+    ]
+  },
+  {
+    "nome": "Ferrari Monza SP1",
+    "descricao": "A arte da condução pura e sem para-brisas. Um monoposto brutalmente rápido, com o V12 de 6.5L aspirado proporcionando 810 cv de pura emoção ao ar livre.",
+    "ano": 2018,
+    "link": "https://www.ferrari.com/en-EN/auto/monza-sp1",
+    "tags": [
+      "Icona - V12-aspirado"
+    ]
+  },
+  {
+    "nome": "Ferrari 360 Modena",
+    "descricao": "O marco da nova era com chassi de alumínio. O V8 de 3.6L com 400 cv oferece uma direção leve e responsiva, um clássico moderno instantâneo e apaixonante.",
+    "ano": 1999,
+    "link": "https://www.ferrari.com/en-EN/auto/360-modena",
+    "tags": [
+      "Clássico Moderno - V8-aspirado"
+    ]
+  },
+  {
+    "nome": "Ferrari 599 GTB Fiorano",
+    "descricao": "Um Gran Turismo que carrega o legado da Enzo. Seu V12 de 6.0L e 620 cv faz dele um dos mais potentes GTs de sua época, combinando luxo e ferocidade.",
+    "ano": 2006,
+    "link": "https://www.ferrari.com/en-EN/auto/599-gtb-fiorano",
+    "tags": [
+      "Grand Tourer - V12-aspirado"
+    ]
+  },
+  {
+    "nome": "Ferrari FF",
+    "descricao": "O pioneiro da tração integral e quatro lugares da Ferrari. O V12 de 6.3L e 660 cv oferece performance em todas as condições climáticas e espaço inigualável.",
+    "ano": 2011,
+    "link": "https://www.ferrari.com/en-EN/auto/ff",
+    "tags": [
+      "Grand Tourer - V12-aspirado"
+    ]
+  },
+  {
+    "nome": "Ferrari Testarossa",
+    "descricao": "Um ícone dos anos 80, imortalizado pelas suas entradas de ar laterais. Seu motor flat-12 de 4.9L entrega 390 cv e um design inconfundível e atemporal.",
+    "ano": 1984,
+    "link": "https://www.ferrari.com/en-EN/auto/testarossa",
+    "tags": [
+      "Clássico - Flat-12"
+    ]
+  },
+  {
+    "nome": "Dino 246 GT",
+    "descricao": "Homenagem ao filho de Enzo. Este V6 de 2.4L entrega 195 cv, mas é a sua beleza e equilíbrio que o tornam um dos carros mais desejados da história. Uma obra de arte.",
+    "ano": 1969,
+    "link": "https://www.ferrari.com/en-EN/auto/dino-246-gt",
+    "tags": [
+      "Clássico - V6-aspirado"
+    ]
+  },
+  {
+    "nome": "Ferrari 250 GTO",
+    "descricao": "O Santo Graal da Ferrari. Um V12 Colombo de 3.0L e 300 cv que dominou as pistas de GT, valendo hoje cifras inimagináveis. A arte em movimento e história de corrida.",
+    "ano": 1962,
+    "link": "https://www.ferrari.com/en-EN/auto/250-gto",
+    "tags": [
+      "Clássico Lendário - V12-aspirado"
+    ]
+  },
+  {
+    "nome": "Ferrari F12 Berlinetta",
+    "descricao": "A força bruta do V12 de 6.3L, entregando 740 cv com uma performance estrondosa. Um GT que se comporta como um supercarro de motor central, puro rugido.",
+    "ano": 2012,
+    "link": "https://www.ferrari.com/en-EN/auto/f12-berlinetta",
+    "tags": [
+      "Grand Tourer - V12-aspirado"
+    ]
+  },
+  {
+    "nome": "Ferrari 348 TB",
+    "descricao": "O sucessor do 328, com um V8 longitudinal de 3.4L e 300 cv. Sua elegância e a transição para a era moderna da engenharia Ferrari do final dos anos 80.",
+    "ano": 1989,
+    "link": "https://www.ferrari.com/en-EN/auto/348-tb",
+    "tags": [
+      "Clássico - V8-aspirado"
+    ]
+  },
+  {
+    "nome": "Ferrari 512 TR",
+    "descricao": "A evolução refinada do Testarossa. O motor flat-12 foi aprimorado para 428 cv, resultando em melhor dirigibilidade e uma performance afiada, mantendo o estilo icônico.",
+    "ano": 1992,
+    "link": "https://www.ferrari.com/en-EN/auto/512-tr",
+    "tags": [
+      "Clássico - Flat-12"
+    ]
+  },
+  {
+    "nome": "Ferrari 430 Scuderia",
+    "descricao": "A versão focada em pista do F430. Mais leve, mais potente e com o V8 de 4.3L elevando a potência para 510 cv. Pura adrenalina de corrida com tecnologia F1.",
+    "ano": 2007,
+    "link": "https://www.ferrari.com/en-EN/auto/f430-scuderia",
+    "tags": [
+      "Supercarro de Pista - V8-aspirado"
+    ]
+  },
+  {
+    "nome": "Ferrari 296 GTB",
+    "descricao": "O V6 mais potente da história. Este híbrido plug-in com 830 cv redefiniu o conceito de esportividade, unindo eletrificação e o puro prazer Ferrari com um motor estrondoso.",
+    "ano": 2021,
+    "link": "https://www.ferrari.com/en-EN/auto/296-gtb",
+    "tags": [
+      "Supercarro - V6-híbrido"
+    ]
+  }
+]
